@@ -72,7 +72,7 @@
 })()
 
 // Defina a data e hora alvo para o contador regressivo (substitua com sua própria data)
-const targetDate = new Date("2023-10-31T23:59:59").getTime();
+const targetDate = new Date("2023-11-23T23:59:59").getTime();
 
 function updateCountdown() {
     const currentDate = new Date().getTime();

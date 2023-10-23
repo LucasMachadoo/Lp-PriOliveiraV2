@@ -62,6 +62,7 @@ h6,
   background: url("../img/hero-bg.jpg");
   background-size: cover;
   position: relative;
+  
 }
 
 .container-2>h1 {
@@ -69,6 +70,7 @@ h6,
   color: aliceblue;
   font-style: normal;
   font-weight: 700;
+  font-size: 25px ;
 }
 
 .color-01 {
@@ -112,7 +114,7 @@ h6,
   box-shadow: 8px 8px 15px 0px #00000040;
   border: 1px solid #ffffff;
   border-radius: 9px;
-  padding: 5px;
+  padding: 20px;
 }
 
 .section-01>h1 {
@@ -315,13 +317,13 @@ h6,
 
 }
 .section-06> div >div> h2 {
-  font-size: 25px;
+  font-size: 35px;
   color: #ffffff;
   font-style: normal;
   font-weight: 700;
 }
 .section-06 >div> ul {
-  font-size: 11px;
+  font-size: 15px;
   color: #ffffff;
   font-style: normal;
   font-weight: 700;
