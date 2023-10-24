@@ -11,5 +11,3 @@ Uma landing page é a primeira impressão que os visitantes têm do seu curso. I
 
 👥 Depoimentos Reais: Com depoimentos de ex-alunos, os visitantes podem visualizar histórias reais de sucesso e se inspirar para fazer parte dessa jornada.
 
-💬 Interação Inteligente: Recursos interativos, como quizzes e calculadoras, criados com JavaScript, ajudam os visitantes a avaliar como o curso se alinha com suas necessidades.
-Em resumo, uma landing page feita com HTML, CSS e JavaScript é uma ferramenta essencial para o lançamento de um curso. Ela oferece uma apresentação impressionante, informações detalhadas, elementos interativos e recursos de conversão, tudo projetado para atrair e engajar potenciais alunos. É o primeiro passo para uma jornada de aprendizado de sucesso.
