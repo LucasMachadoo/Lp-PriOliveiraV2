@@ -163,8 +163,9 @@ h6,
   gap: 20px;
 }
 
-.image-grid img {
-  max-width: 100%;
+.image-grid  img {
+  
+  width: 15rem;
   height: auto;
   display: block;
 }
